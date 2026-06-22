@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://image.invaluable.com/housePhotos/Cambi/10/737810/H4009-L312128832.jpg" width="100%" alt="MasterHead" />
+  <img src="https://c4.wallpaperflare.com/wallpaper/122/222/332/artistic-painting-wallpaper-preview.jpg" width="100%" alt="MasterHead" />
 </div>
 
 <br>
