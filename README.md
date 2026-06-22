@@ -11,18 +11,18 @@
 <br>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=metrisweet&show_icons=true&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=D4A574&icon_color=D4A574&text_color=F5E6D3" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=metrisweet&layout=compact&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=D4A574&text_color=F5E6D3" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=metrisweet&show_icons=true&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=FFFFFF" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=metrisweet&layout=compact&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=FFFFFF" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=metrisweet&theme=vue-dark&hide_border=true&background=0D1117&stroke=D4A574&ring=D4A574&fire=8B3A3A&currStreakLabel=D4A574" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=metrisweet&theme=vue-dark&hide_border=true&background=0D1117&stroke=00FF88&ring=00FF88&fire=FF6B6B&currStreakLabel=00FF88" alt="GitHub Streak" />
 </div>
 
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=metrisweet&theme=vue-dark&hide_border=true&bg_color=0D1117&color=D4A574&line=D4A574&point=F5E6D3" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=metrisweet&theme=vue-dark&hide_border=true&bg_color=0D1117&color=00FF88&line=00FF88&point=FFFFFF" alt="Activity Graph" />
 </div>
 
