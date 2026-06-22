@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://c4.wallpaperflare.com/wallpaper/1007/346/568/picture-the-gods-the-titans-mythology-wallpaper-preview.jpg" width="100%" alt="MasterHead" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHA3ZGttMHozZ3NvZzQ2em80OXRwMTJrbGU5NGlrZDV6bjRybXRmciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EBwpF4EromgYGV3EDF/giphy.gif" width="100%" alt="MasterHead" />
 </div>
 
 <br>
