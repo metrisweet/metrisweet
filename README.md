@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://c4.wallpaperflare.com/wallpaper/122/222/332/artistic-painting-wallpaper-preview.jpg" width="100%" alt="MasterHead" />
+  <img src="https://c4.wallpaperflare.com/wallpaper/1007/346/568/picture-the-gods-the-titans-mythology-wallpaper-preview.jpg" width="100%" alt="MasterHead" />
 </div>
 
 <br>
