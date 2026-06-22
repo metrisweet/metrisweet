@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://miro.medium.com/1*OAXivevUVDA6ddtq-7jwVw.gif" width="100%" alt="MasterHead" />
+  <img src="https://image.invaluable.com/housePhotos/Cambi/10/737810/H4009-L312128832.jpg" width="100%" alt="MasterHead" />
 </div>
 
 <br>
@@ -21,20 +21,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=metrisweet&theme=vue-dark&hide_border=true&background=0D1117&stroke=00FF88&ring=00FF88&fire=FF6B6B&currStreakLabel=00FF88" alt="GitHub Streak" />
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=metrisweet&theme=onestar&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
-
-<br>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=metrisweet&theme=vue-dark&hide_border=true&bg_color=0D1117&color=00FF88&line=00FF88&point=FFFFFF" alt="Activity Graph" />
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/metrisweet/metrisweet/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</div>
